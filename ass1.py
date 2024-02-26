@@ -1,0 +1,5 @@
+x=(int(input("Enter the value of x :")))
+print(x)
+print(x*x)
+print(x*x*x)
+print(x*x*x*x)

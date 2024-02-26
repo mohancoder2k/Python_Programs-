@@ -1,0 +1,8 @@
+str=(input)("Enter s String : ")
+print(str)
+print(str[0])
+print(str[2:4])
+print(str[2:])
+print(str + " is an College")
+print(str *2)
+print(str[6:])
