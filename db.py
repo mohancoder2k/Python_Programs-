@@ -1,7 +1,6 @@
-import mysql.connector
-
+import mysql2.connector
 # Connect to the MySQL database
-conn = mysql.connector.connect(
+conn = mysql2.connector.connect(
     host="localhost",
     user="root",
     password="12345678",
