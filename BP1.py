@@ -1,3 +1,4 @@
+#Python Program to read and write the variables of different datatypes
 
 a=(int(input('Enter a Integer number  :')))
 print("The entered number is :",a, " is integer")

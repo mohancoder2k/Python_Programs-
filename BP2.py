@@ -1,3 +1,5 @@
+#python program to calculate area of the triangle 
+
 import math
 a=(float(input("Enter the length of side a :")))
 b=(float(input("Enter the length of side b : ")))

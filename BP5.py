@@ -1,3 +1,2 @@
-a=(int(input("Enter a Number ")))
-c = a%10
-print("One's place of ",a, " is =", c)
+a=(int(input("Enter a Number : ")))
+print("One's place of ",a, " is =", a%10)
